@@ -1,1 +1,3 @@
 this is just a random file to practice git pull, push and its other commands.
+some new changes made in this file after making new branch with name trial and 
+now i want to see  and practice pull related things.
